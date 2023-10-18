@@ -52,15 +52,17 @@ Developed and maintained software applications, ensuring high-quality code by co
 - Past: @tenstorrent @amd @intel
  
 # Events
+ - Intel Conference · July 2014
+ - Grace Hopper Celebration · October 2014
  - RTX Rooster Teeth, · June 2021
  - AMD Conference, · Mar 2022
  - Tenstorrent Conference, · Feb 2023
- - The Hollywood Tech Networking Meetup, Business Meetup  · Oct 2023
- - Learn Teach Code LA, Code Meetup · Oct 2023
- - Tech in Motion, Speaker Event with Sarah Nabelsi: Co-Author of Data Curious · Oct 2023
- - API World 2023, brings you cutting API developer learning from industry leaders · Oct 2023
- - LA Tech Mixer Meetup, · Oct 2023
- - OWASP Los Angeles, · Oct 2023
+ - The Hollywood Tech Networking · Oct 2023
+ - Learn Teach Code LA: Code Meetup · Oct 2023
+ - Tech in Motion Speaker Event with Sarah Nabelsi: Co-Author of Data Curious · Oct 2023
+ - API World 2023: brings you cutting API developer learning from industry leaders · Oct 2023
+ - LA Tech Mixer · Oct 2023
+ - OWASP Los Angeles · Oct 2023
 
 
 # Credits
