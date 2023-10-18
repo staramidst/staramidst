@@ -6,6 +6,8 @@
  🎧💻🖱️ Network Engineer previously lived in Austin, Dallas, & Portland.
 
 # About this page
+Recollection of everything that has been, was, and will be... 
+
 # Current Employment
 
 - Technology Consultant · Apr 2023 
@@ -47,9 +49,19 @@ Developed and maintained software applications, ensuring high-quality code by co
   
 - Henderson Community College ·  Oct 2013
 
- Past: @tenstorrent @amd @intel
+- Past: @tenstorrent @amd @intel
  
 # Events
+ - RTX Rooster Teeth, · June 2021
+ - AMD Conference, · Mar 2022
+ - Tenstorrent Conference, · Feb 2023
+ - The Hollywood Tech Networking Meetup, Business Meetup  · Oct 2023
+ - Learn Teach Code LA, Code Meetup · Oct 2023
+ - Tech in Motion, Speaker Event with Sarah Nabelsi: Co-Author of Data Curious · Oct 2023
+ - API World 2023, brings you cutting API developer learning from industry leaders · Oct 2023
+ - LA Tech Mixer Meetup, · Oct 2023
+ - OWASP Los Angeles, · Oct 2023
+
 
 # Credits
 - [A](https://twitter.com/itsmetherogue)
