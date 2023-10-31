@@ -1,5 +1,5 @@
 
-![STARLYN ROBINSON NETWORK ENGINEERSOFTWARE ENGINEER (1)](https://github.com/staramidst/staramidst/assets/146413562/09fbdf10-7f34-44ad-a5af-fecd02b7d645)
+![banner](https://github.com/staramidst/staramidst/assets/146413562/1f642dde-3a4e-4565-8cd4-f34ca079bda3)
 
 
 # About
