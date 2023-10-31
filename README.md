@@ -3,7 +3,7 @@
 
 
 # About
- 🎧💻🖱️ Senior Network Engineer previously lived in Austin, Dallas, & Portland. I am into dogs, politics, and tennis. I love to play tennis on the weekends. I'm interseted in meetups, and contributions to coding. I like to build community, and connect with other like-minded people. I've put together a 1 billion dollar startup, with limited help from scratch and built servers, routers, switches, cabling, conference rooms. I've also helped with off-site colocations in multiple buisnesses. I currently am a Python coder, and have learned c++ previously. I have imposter syndrome I am highly skilled and trained to do my job.
+ 🎧💻🖱️ Senior Network Engineer previously lived in AUS, DFW, PDX, and LAX. I am into dogs, politics, and tennis. I love to play tennis on the weekends. I like to build community, and connect with other like-minded people. I've put together a 1 billion dollar startup, with limited help from scratch and built: servers, routers, switches, cabling, conference rooms. I've also helped with off-site colocations in multiple buisnesses. I currently am a Python coder, and have learned c++. I have imposter syndrome I am highly skilled and trained to do my job.
 
 # About this page
 Knowledgeable and qualified Network Engineer skilled at installing, configuring, and maintaining communication networks. Adept at monitoring network performance, completing backups, and improving quality and efficiency of network infrastructure. Committed to performing high-quality work.
