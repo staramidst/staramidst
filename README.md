@@ -3,10 +3,10 @@
 
 
 # About
- 🎧💻🖱️ Network Engineer previously lived in Austin, Dallas, & Portland.
+ 🎧💻🖱️ Senior Network Engineer previously lived in Austin, Dallas, & Portland. I am into dogs, politics, and tennis. I love to play tennis on the weekends. I'm interseted in meetups, and contributions to coding. I like to build community, and connect with other like-minded people. I've put together a 1 billion dollar startup, with limited help from scratch and built servers, routers, switches, cabling, conference rooms. I've also helped with off-site colocations in multiple buisnesses. I currently am a Python coder, and have learned c++ previously. I have imposter syndrome I am highly skilled and trained to do my job.
 
 # About this page
-Recollection of everything that has been, was, and will be... 
+Knowledgeable and qualified Network Engineer skilled at installing, configuring, and maintaining communication networks. Adept at monitoring network performance, completing backups, and improving quality and efficiency of network infrastructure. Committed to performing high-quality work.
 
 # Current Employment
 
@@ -24,7 +24,14 @@ Led the design and implementation of a scalable and secure network infrastructur
 - HCC AS PROGRAMMING · Dec 2014
   
 # Competitions
+
+-TBD
+
 # Current Orgs
+
+- Xericile · October 2023
+A company that is innovative that does research, and development, with long-term thinking.
+
 # Past Employment
 
 - AMD · Oct 2021 
@@ -67,6 +74,7 @@ Hands-on problem-solving ability. Knowledge of script languages such as Python, 
 # Events
  - Intel Conference · July 2014
  - Grace Hopper Celebration · October 2014
+ - PyLadies · September 2014
  - RTX Rooster Teeth, · June 2021
  - AMD Conference, · Mar 2022
  - Tenstorrent Conference, · Feb 2023
