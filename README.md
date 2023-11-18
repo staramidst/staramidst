@@ -22,6 +22,7 @@ Led the design and implementation of a scalable and secure network infrastructur
 # Education
 
 - HCC AS PROGRAMMING · Dec 2014
+- Online courses · CCNA, CCNP, SEC+, CYSA+, CISSP, Linux, Terraform, AWS: Udemy, Pluralsight, David Bombal, Dion Training, Coursera, Linkedin Learning, Google Certifications: Cyber Security, UX/UI.
   
 # Competitions
 
