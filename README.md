@@ -1,9 +1,9 @@
 
-![banner](https://github.com/staramidst/staramidst/assets/146413562/1f642dde-3a4e-4565-8cd4-f34ca079bda3)
+![holo](https://github.com/staramidst/staramidst/assets/146413562/a3894f65-8c21-462e-b496-5c6f8a81c8f2)
 
 
 # About
- 🎧💻🖱️ Senior Network Engineer previously lived in AUS, DFW, PDX, and LAX. I am into dogs, politics, and tennis. I love to play tennis on the weekends. I like to build community, and connect with other like-minded people. I've put together a 1 billion dollar startup, with limited help from scratch and built: servers, routers, switches, cabling, conference rooms. I've also helped with off-site colocations in multiple buisnesses. I currently am a Python coder, and have learned c++. I have imposter syndrome I am highly skilled and trained to do my job.
+ 🎧💻🖱️ Senior Software Engineer previously lived in AUS, DFW, PDX, and LAX. I am into dogs, politics, and tennis. I love to play tennis on the weekends. I like to build community, and connect with other like-minded people. I've put together a 1 billion dollar startup, with limited help from scratch and built: servers, routers, switches, cabling, conference rooms. I've also helped with off-site colocations in multiple buisnesses. I currently am a Python coder, and have learned c++. I have imposter syndrome I am highly skilled and trained to do my job.
 
 # About this page
 Knowledgeable and qualified Network Engineer skilled at installing, configuring, and maintaining communication networks. Adept at monitoring network performance, completing backups, and improving quality and efficiency of network infrastructure. Committed to performing high-quality work.
